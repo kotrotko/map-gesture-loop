@@ -1,6 +1,6 @@
 # map_gesture_loop
 
-Training Flutter project for area on the map selecting
+Training Flutter project for gesture-based interface where users draw loops on a map by finger.
 
 ## Getting Started
 
